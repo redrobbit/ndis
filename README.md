@@ -20,7 +20,7 @@ Service Layer: https://webservices.volcano.si.edu/geoserver/GVP-VOTW/ows?service
 Significant Volcano Eruption: 
 Citation: National Geophysical Data Center / World Data Service (NGDC/WDS): Significant Earthquake Database. National Geophysical Data Center, NOAA. doi:10.7289/V5TD9V7K
  
- 
+
 2. LANDSLIDE:
 Landslide data retrieved from:
  
@@ -29,7 +29,7 @@ Title: Global Landslide Catalog | Type: Feature Service | Owner: krolikie@unhcr.
  
 Citation: Kirschbaum, D.B., Stanley, T., & Zhou, Y. (2015). Spatial and temporal analysis of a global landslide catalog. Geomorphology, 249, 4-15. doi:10.1016/j.geomorph.2015.03.016 Kirschbaum, D.B., Adler, R., Hong, Y., Hill, S., & Lerner-Lam, A. (2010). A global landslide catalog for hazard applications: method, results, and limitations. Natural Hazards, 52, 561-575. doi:10.1007/s11069-009-9401-4 Further info: https://gpm.nasa.gov/landslides/data.html
  
- 
+
 3. TSUNAMI
 Data retrieved from NCEI NOAA - Global Historical Tsunami Database
  
@@ -39,7 +39,7 @@ Documentation: https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/Haza
  
 Layer info: https://www.arcgis.com/home/item.html?id=5a44c3d4d465498993120b70ab568876
  
- 
+
 4. FAULT
 Fault original dataset is retrieved from GEM Global Active Faults Database (GAF-DB)
  
@@ -48,8 +48,8 @@ The GEM GAF-DB has been published in Earthquake Spectra. Styron, Richard, and Ma
 The link to the publication is here: https://journals.sagepub.com/doi/abs/10.1177/8755293020944182
 Documentation: https://github.com/GEMScienceTools/gem-global-active-faults
  
- 
- 
+
+
 5. EARTHQUAKE:
 Earthquake dats retrieved from the following datasets.
  
@@ -72,7 +72,8 @@ ISC-GEM Catalogue
 The ISC-GEM Global Instrumental Earthquake Catalogue (for data period 1904-2016).
 (https://www.isc.ac.uk/iscgem/)
  
- 
+
+
 6. NUCLEAR POWER PLANT
 Nuclear Power Plant data retrieved from Global Energy Monitor.
 Copyright © Global Energy Monitor. Global Nuclear Power Tracker, July 2024 release. Distributed under a Creative Commons Attribution 4.0 International License.
