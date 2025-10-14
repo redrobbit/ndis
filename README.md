@@ -18,7 +18,7 @@ Further info: https://volcano.si.edu/database/webservices.cfm
 Service Layer: https://webservices.volcano.si.edu/geoserver/GVP-VOTW/ows?service=WFS&version=1.0.0&request=describefeaturetype&typeName=GVP-VOTW:E3WebApp_HoloceneVolcanoes 
  
 Significant Volcano Eruption: 
-Citation: National Geophysical Data Center / World Data Service (NGDC/WDS): Significant Earthquake Database. National Geophysical Data Center, NOAA. doi:10.7289/V5TD9V7K
+Citation: National Geophysical Data Center / World Data Service (NGDC/WDS): NCEI/WDS Global Significant Volcanic Eruptions Database. NOAA National Centers for Environmental Information. doi:10.7289/V5JW8BSH [8 July 2022]
  
 
 2. LANDSLIDE:
