@@ -81,8 +81,8 @@ Copyright © Global Energy Monitor. Global Nuclear Power Tracker, July 2024 rele
 https://globalenergymonitor.org/projects/global-nuclear-power-tracker/
  
  
-Processing Note: 
-Processed by Robiah Al Wardah
+Processing Note:
+
 Clipped by Region using exclusive economic zone (EEZ):
 Retrieved from Maritime Boundaries and Exclusive Economic Zones (200NM), version 12 https://www.marineregions.org/. https://doi.org/10.14284/632
 Citation: Flanders Marine Institute (2024). Union of the ESRI Country shapefile and the Exclusive Economic Zones (version 4). Available online at https://www.marineregions.org/. https://doi.org/10.14284/698. Consulted on 2025-02-20 Further info: https://www.marineregions.org/downloads.php#unioneezcountry
