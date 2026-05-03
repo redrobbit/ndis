@@ -7,18 +7,16 @@ This repository documents the end-to-end geospatial preprocessing and decision l
 
 Dataset Used in this research are derived from:
 1. VOLCANO:
+ Volcano data retrieved from GVP, GVP VOTW, Smithsonian Institution and Significant Volcano Eruption from NGDC/WDS.
+ Global Volcanism Program:
+ Citation: Global Volcanism Program, 2013. Volcanoes of the World, v. 4.11.0 (08 Jul 2022). Venzke, E (ed.). Smithsonian Institution. Downloaded 13 Jul 2022. https://doi.org/10.5479/si.GVP.VOTW4-2013. 
  
-Volcano data retrieved from GVP, GVP VOTW, Smithsonian Institution and Significant Volcano Eruption from NGDC/WDS.
+ GVP VOTW:
+ Further info: https://volcano.si.edu/database/webservices.cfm 
+ Service Layer: https://webservices.volcano.si.edu/geoserver/GVP-VOTW/ows?service=WFS&version=1.0.0&request=describefeaturetype&typeName=GVP-VOTW:E3WebApp_HoloceneVolcanoes 
  
-Global Volcanism Program:
-Citation: Global Volcanism Program, 2013. Volcanoes of the World, v. 4.11.0 (08 Jul 2022). Venzke, E (ed.). Smithsonian Institution. Downloaded 13 Jul 2022. https://doi.org/10.5479/si.GVP.VOTW4-2013. 
- 
-GVP VOTW:
-Further info: https://volcano.si.edu/database/webservices.cfm 
-Service Layer: https://webservices.volcano.si.edu/geoserver/GVP-VOTW/ows?service=WFS&version=1.0.0&request=describefeaturetype&typeName=GVP-VOTW:E3WebApp_HoloceneVolcanoes 
- 
-Significant Volcano Eruption: 
-Citation: National Geophysical Data Center / World Data Service (NGDC/WDS): NCEI/WDS Global Significant Volcanic Eruptions Database. NOAA National Centers for Environmental Information. doi:10.7289/V5JW8BSH [8 July 2022]
+ Significant Volcano Eruption: 
+ Citation: National Geophysical Data Center / World Data Service (NGDC/WDS): NCEI/WDS Global Significant Volcanic Eruptions Database. NOAA National Centers for Environmental Information. doi:10.7289/V5JW8BSH [8 July 2022]
  
 
 2. LANDSLIDE:
