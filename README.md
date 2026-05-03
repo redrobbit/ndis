@@ -6,7 +6,7 @@ This repository documents the end-to-end geospatial preprocessing and decision l
 >  Tools: ArcGIS Pro, Python (arcpy), FastAPI, Azure App Services, ArcGIS Experience Builder
 
 Dataset Used in this research are derived from:
-1. VOLCANO:
+1. VOLCANO
 
    Volcano data retrieved from GVP, GVP VOTW, Smithsonian Institution and Significant Volcano Eruption from NGDC/WDS.
 
@@ -21,21 +21,24 @@ Dataset Used in this research are derived from:
    Citation: National Geophysical Data Center / World Data Service (NGDC/WDS): NCEI/WDS Global Significant Volcanic Eruptions Database. NOAA National Centers for Environmental Information. doi:10.7289/V5JW8BSH [8 July 2022]
  
 
-3. LANDSLIDE:
+2. LANDSLIDE
+   
 
    Landslide data retrieved from:
    Title: Global Landslide Catalog | Type: Feature Service | Owner: krolikie@unhcr.org_unhcr https://maps.nccs.nasa.gov/arcgis/apps/MapAndAppGallery/index.html?appid=574f26408683485799d02e857e5d9521
    Citation: Kirschbaum, D.B., Stanley, T., & Zhou, Y. (2015). Spatial and temporal analysis of a global landslide catalog. Geomorphology, 249, 4-15. doi:10.1016/j.geomorph.2015.03.016 Kirschbaum, D.B., Adler, R., Hong, Y., Hill, S., & Lerner-Lam, A. (2010). A global landslide catalog for hazard applications: method, results, and limitations. Natural Hazards, 52, 561-575. doi:10.1007/s11069-009-9401-4 Further info: https://gpm.nasa.gov/landslides/data.html
  
 
-4. TSUNAMI
+3. TSUNAMI
+   
    Data retrieved from NCEI NOAA - Global Historical Tsunami Database
    Citation: National Geophysical Data Center / World Data Service: NCEI/WDS Global Historical Tsunami Database. NOAA National Centers for Environmental Information. doi:10.7289/V5PN93H7 [4 August 2023]
    Further info: https://ngdc.noaa.gov/hazard/hazards.shtml
    Documentation: https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/Hazards/iso/xml/G02151.xml&view=getDataView
    Layer info: https://www.arcgis.com/home/item.html?id=5a44c3d4d465498993120b70ab568876
  
-5. FAULT
+4. FAULT
+   
    Fault original dataset is retrieved from GEM Global Active Faults Database (GAF-DB)
    Citation:
    The GEM GAF-DB has been published in Earthquake Spectra. Styron, Richard, and Marco Pagani. “The GEM Global Active Faults Database.” Earthquake Spectra, vol. 36, no. 1_suppl, Oct. 2020, pp. 160–180, doi:10.1177/8755293020944182.
@@ -44,11 +47,12 @@ Dataset Used in this research are derived from:
  
 
 
-6. EARTHQUAKE:
+5. EARTHQUAKE
+    
    Earthquake dats retrieved from the following datasets.
 
    Historical Parts:
-   
+
    GHEC Catalog
    GEM provides Global Historical Earthquake Catalogue (GHEC) from 1000 to 1903 (Albini, 2014). (https://platform.openquake.org/maps/80/download)
 
@@ -65,7 +69,7 @@ Dataset Used in this research are derived from:
    ISC-GEM Catalogue
    The ISC-GEM Global Instrumental Earthquake Catalogue (for data period 1904-2016). (https://www.isc.ac.uk/iscgem/)
 
-8. NUCLEAR POWER PLANT
+6. NUCLEAR POWER PLANT
 
    Nuclear Power Plant data retrieved from Global Energy Monitor.
    Copyright © Global Energy Monitor. Global Nuclear Power Tracker, July 2024 release. Distributed under a Creative Commons Attribution 4.0 International License. "Global Energy Monitor, Global Nuclear Power Tracker, July 2024 release" (See the CC license for attribution requirements if sharing or adapting the data set.) https://globalenergymonitor.org/projects/global-nuclear-power-tracker/
