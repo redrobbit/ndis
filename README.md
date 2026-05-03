@@ -7,9 +7,10 @@ This repository documents the end-to-end geospatial preprocessing and decision l
 
 Dataset Used in this research are derived from:
 1. VOLCANO:
- Volcano data retrieved from GVP, GVP VOTW, Smithsonian Institution and Significant Volcano Eruption from NGDC/WDS.
- Global Volcanism Program:
- Citation: Global Volcanism Program, 2013. Volcanoes of the World, v. 4.11.0 (08 Jul 2022). Venzke, E (ed.). Smithsonian Institution. Downloaded 13 Jul 2022. https://doi.org/10.5479/si.GVP.VOTW4-2013. 
+
+   Volcano data retrieved from GVP, GVP VOTW, Smithsonian Institution and Significant Volcano Eruption from NGDC/WDS.
+   Global Volcanism Program:
+   Citation: Global Volcanism Program, 2013. Volcanoes of the World, v. 4.11.0 (08 Jul 2022). Venzke, E (ed.). Smithsonian Institution. Downloaded 13 Jul 2022. https://doi.org/10.5479/si.GVP.VOTW4-2013. 
  
  GVP VOTW:
  Further info: https://volcano.si.edu/database/webservices.cfm 
